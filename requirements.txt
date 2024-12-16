@@ -1,0 +1,16 @@
+# Core ML packages
+torch==2.1.2 
+torchvision==0.16.2
+transformers>=4.37.0
+decord>=0.6.0
+Pillow>=10.0.0
+
+# Utility packages
+tqdm>=4.66.0
+numpy>=1.24.0
+
+# LLaVA installation
+git+https://github.com/LLaVA-VL/LLaVA-NeXT.git
+
+# Optional but recommended
+flash-attn>=2.5.0  # For faster inference
