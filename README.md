@@ -4,8 +4,8 @@
 
 **Team Members:**
 
-- Qihang Fu (fuqihang@seas.upenn.edu)
 - Ziyang Zhang (sidz314@seas.upenn.edu)
+- Qihang Fu (fuqihang@seas.upenn.edu)
 - Yi Zhao (zhaoyi3@seas.upenn.edu)
 
 ---
